@@ -1,12 +1,1 @@
-git init
-nofoobar@fastapi:~/Documents/algoholic.io$ pwd
-/home/nofoobar/Documents/algoholic.io
 
-nofoobar@fastapi:~/Documents/algoholic.io$ source ./env/bin/activate
-
-(env) nofoobar@fastapi:~/Documents/algoholic.io$ git init
-Initialized empty Git repository in /home/nofoobar/Documents/algoholic.io/.git/
-__pycache__
-.env
-env
-test_db.db
